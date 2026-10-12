@@ -1,0 +1,18 @@
+# 含 Wi-Fi 密碼與 OpenAI API Key，絕對不要上傳
+XiaoKe_LAFVIN/config.h
+
+# 編譯產物
+build/
+build_cdc/
+*.log
+
+# 原廠韌體備份、廠商檔案、產品文件、暫存檔
+backup/
+CP210x_Universal_Windows_Driver/
+*.zip
+*.bin
+*.docx
+*.pdf
+*.mp4
+~$*
+~WRL*.tmp
