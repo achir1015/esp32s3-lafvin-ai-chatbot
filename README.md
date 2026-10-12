@@ -1,7 +1,7 @@
 # esp32s3-lafvin-ai-chatbot
 ESP32 AI 桌上型機器人 — LAFVIN ESP32S3 AIChatBot「小柯」
 <img width="1186" height="930" alt="image" src="https://github.com/user-attachments/assets/533c252c-d5bb-40f1-ad9d-3bae761e3a28" />
-
+https://github.com/user-attachments/assets/9bedfdc5-0a82-4b4e-84f8-4c37b05b11ce
 把 LAFVIN ESP32S3 AIChatBot 原廠的「小智」韌體換成 **小柯 OpenAI 版**：直接說話 → OpenAI 語音轉文字 → GPT 回答 → OpenAI TTS 從喇叭講出來。2.0 吋螢幕顯示可愛表情、日期時間、農曆與農民曆；會查班表、工作流程、病房助理工作站，還會唱歌（雲端硬碟 MP3 直接播放）。
 
 ---
